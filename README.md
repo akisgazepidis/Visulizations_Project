@@ -2,26 +2,26 @@
 
 In this project i used five kaggle datasets from Tokyo Olympics and conducted some analysis so as to gain insights.
 
-# Teams dataset feautures:
+### Teams dataset feautures:
 1) Name
 2) Discipline
 3) NOC
 4) Event 
-# Athletes dataset feautures:
+### Athletes dataset feautures:
 1) Name
 2) Discipline
 3) NOC
-# Coaches dataset feautures:
+### Coaches dataset feautures:
 1) Name
 2) Discipline
 3) NOC
 4) Event 
-# Entriesgender dataset feautures:
+### Entriesgender dataset feautures:
 1) Discipline
 2) Female
 3) Male
 4) Total
-# Medals dataset feautures:
+### Medals dataset feautures:
 1) Rank
 2) Team/NOC
 3) Gold
